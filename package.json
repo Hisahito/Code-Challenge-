@@ -1,10 +1,13 @@
 {
   "name": "code-challenge",
   "version": "1.0.0",
-  "description": "",
+  "description": "Weekly_Mission_4 Practice #5 from Backend Bootcamp Launchx",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node ./node_modules/.bin/jest",
+    "linter": "node ./node_modules/eslint/bin/eslint.js .",
+    "linter-fix": "node ./node_modules/eslint/bin/eslint.js . --fix",
+    "server": "node ./lib/server.js"
   },
   "repository": {
     "type": "git",
