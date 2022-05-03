@@ -1,6 +1,6 @@
 ## CODE CHALLANGE PRACTICE 5 FROM WEEKLY_MISSION_4 BACKEND BOOTCAMP LAUNCHX
 
-Requerimientos:
+Requirements:
 
 Habilitar un endpoint para consultar todos los estudiantes con todos sus campos.
 Habilitar un endpoint para consultar los emails de todos los estudiantes que tengan certificación haveCertification.
@@ -68,15 +68,15 @@ Se diseñaron
     Server is hosting on localhost:3000
 
 
-#VisualPartnerAPI all students are running in localhost:3000/v1/students
+##VisualPartnerAPI all students are running in localhost:3000/v1/students
 <img width="1440" alt="Captura de Pantalla 2022-05-02 a la(s) 22 47 43" src="https://user-images.githubusercontent.com/83984969/166402440-27026414-5625-4a27-b33e-88eff9bc08f9.png">
 
 
-#VisualPartnerAPI all emails from certificated students are running in localhost:3000/v1/students/email
+##VisualPartnerAPI all emails from certificated students are running in localhost:3000/v1/students/email
 <img width="1440" alt="Captura de Pantalla 2022-05-02 a la(s) 22 48 24" src="https://user-images.githubusercontent.com/83984969/166402503-ad25877a-1250-4d4a-aea7-d25a5d85ce71.png">
 
 
-#VisualPartnerAPI all students with credits up to 500 are running in localhost:3000/v1/students/numbers/credits
+##VisualPartnerAPI all students with credits up to 500 are running in localhost:3000/v1/students/numbers/credits
 <img width="1440" alt="Captura de Pantalla 2022-05-02 a la(s) 22 48 39" src="https://user-images.githubusercontent.com/83984969/166402511-201a94b9-d9e2-4383-b52f-2fded09686b3.png">
 
 
